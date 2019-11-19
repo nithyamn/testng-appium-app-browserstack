@@ -1,8 +1,0 @@
-language: java
-jdk: openjdk8
-script: mvn test -P single
-addons:
-  browserstack:
-    username: "nithyamani3"
-    access_key: "W4hWlRS51qG/8y9LRvxxCUgJ3H+61D9naT9hIgPd3pBgEXjKxSRTJ2VHAMPA41FLykBL+3o3S1ai6wqPhfwizI5a1GfV0FJXS2viRY+pG+XvZGPz5KL6S/MllxPpdsT6AB2weex/AwOYzrsPzEDXq+PSRHfJmNNa1XpVPVD6s51lNSwV2nXZtz50iwqI8E2fYIGTb7Uh9ZtacRZCOqdvot1wQi/dlY4Rgw2tk8q6Zh2ptYh8RmMe7gWkbTAo1BVcYgMHAOHiVwemRU5jr4oXJXFBCqdBuQAX3OaFbFtnlX+o9uD7UdsEhDnSjHHT1ZwwnZBkYuA5LuNC1IaCfFE+C+Vg3uXg5ONygV1bgHPnBuBg2z8SmnmRamp/cr3cHvB4lxt30fmT70ilXa01tuCS5/gneyjr3Brhkf0CKpizV9PC4WRolDd7TFAGNI6waOim/95yuzWvGxNOGCx2GSbWHqwOEd/AOWakXH9PFOOWW9Vh59eAv7M74ipPZKNFO2grWTp2BJ2ulFsneKui3vE0y+h6MY55ugvBO+UlM5b1EoJ3BAe6Ui+jIXCtDBEcbenAyHYVQbB62nYCpo2UTo2wKtiZJfTgRBqvnNnPSsCf/Xc91/EDYj+OXwEdFa8qVeCOTBI6YBTbgevj1IW/d/12WanDSYuuBpJMwEXcWra4TLI="
-    app_path: "/Users/nithyamani/Desktop/APPS/WikipediaSample.apk"
